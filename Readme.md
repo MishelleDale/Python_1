@@ -6,12 +6,13 @@
 - 7 -> да
 - 1 -> нет
 
-
+![Task1](https://github.com/MishelleDale/Python_1/raw/main/screenshots/task1.jpg)
 
 # Task 2
 
 Напишите программу для проверки истинности утверждения ¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z для всех значений предикат.
 
+![Task1](https://github.com/MishelleDale/Python_1/raw/main/screenshots/task2.jpg)
 
 # Task 3
 
@@ -21,11 +22,13 @@
 - x=2; y=4-> 1
 - x=-34; y=-30 -> 3
 
+![Task1](https://github.com/MishelleDale/Python_1/raw/main/screenshots/task3.jpg)
 
 # Task 4
 
 Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
 
+![Task1](https://github.com/MishelleDale/Python_1/raw/main/screenshots/task4.jpg)
 
 # Task 5
 
@@ -34,3 +37,4 @@
 - A (3,6); B (2,1) -> 5,09
 - A (7,-5); B (1,-1) -> 7,21
 
+![Task1](https://github.com/MishelleDale/Python_1/raw/main/screenshots/task5.jpg)
